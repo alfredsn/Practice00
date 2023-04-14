@@ -1,4 +1,5 @@
-#Kotlin Learning Repository
+# **Kotlin Learning Repository**
+
 This repository contains all my practice and learning materials for the Kotlin programming language. I created this repository to document my progress and showcase my projects to others.
 
 In this repository, you will find various Kotlin projects and exercises that cover different topics such as basic syntax, control structures, functions, classes, and more advanced concepts like coroutines, lambdas, and functional programming.
